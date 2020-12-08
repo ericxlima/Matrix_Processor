@@ -9,5 +9,5 @@ Matrix processor project done as part of Jetbrains academy
 - [x] Multiplying by a constant
 - [x] Multiplying two matrices
 - [x] Matrix transposed
-- [ ] Calculate the determinant
+- [x] Calculate the determinant
 - [ ] Inverse Matrix
